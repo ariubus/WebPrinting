@@ -1,0 +1,18 @@
+{
+  "name": "WebPrinting",
+  "description": "Web templating design and CRM",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "Ariel F. Cabanas"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "angular-ui-router": "~0.2.15"
+  }
+}
